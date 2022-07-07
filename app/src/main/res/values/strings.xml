@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Know_Your_Weather</string>
+    <string name="btn">Weather Forecast &#9729;</string>
+    <string name="hint">Enter Your Desired City ; )</string>
+    <string name="weather">Weather &#128752;</string>
+    <string name="sunrise">Sunrise &#127749;:</string>
+    <string name="sunset">Sunset &#127751;:</string>
+    <string name="temp">Temperature &#127777;</string>
+    <string name="Feels">Feels Like: </string>
+    <string name="max">Max: </string>
+    <string name="min">Min: </string>
+    <string name="real">Actual Temperature:</string>
+
+
+</resources>
